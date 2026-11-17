@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1110" viewBox="0 0 1600 1110" font-family="'Segoe UI', Arial, Helvetica, sans-serif">
+<defs><marker id="open" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M2,2 L10,6 L2,10" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-linejoin="miter"/></marker></defs>
+<style>.halo{paint-order:stroke;stroke:#fff;stroke-width:4px;stroke-linejoin:round}.t{}</style>
+<rect width="1600" height="1110" fill="#FFFFFF"/>
+<rect x="30" y="885" width="310" height="205" rx="6" fill="#FAFAFA" stroke="#CBD5E0" stroke-width="1.2"/>
+<rect x="210" y="90" width="240" height="90" fill="#E6F4EA" stroke="#2F855A" stroke-width="2"/>
+<g stroke="#2F855A" stroke-width="1.3" fill="#E6F4EA"><rect x="424" y="99" width="16" height="12"/><rect x="420" y="101.5" width="8" height="3" fill="#E6F4EA"/><rect x="420" y="106.5" width="8" height="3" fill="#E6F4EA"/></g>
+<text x="330" y="114" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«component»</text>
+<text x="330" y="143" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">App Cliente</text>
+<text x="330" y="164" text-anchor="middle" font-size="12" fill="#4A5568">Escolhe, paga e acompanha o pedido</text>
+<rect x="660" y="90" width="240" height="90" fill="#E6F4EA" stroke="#2F855A" stroke-width="2"/>
+<g stroke="#2F855A" stroke-width="1.3" fill="#E6F4EA"><rect x="874" y="99" width="16" height="12"/><rect x="870" y="101.5" width="8" height="3" fill="#E6F4EA"/><rect x="870" y="106.5" width="8" height="3" fill="#E6F4EA"/></g>
+<text x="780" y="114" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«component»</text>
+<text x="780" y="143" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">App Restaurante</text>
+<text x="780" y="164" text-anchor="middle" font-size="12" fill="#4A5568">Aceita e prepara os pedidos</text>
+<rect x="1110" y="90" width="240" height="90" fill="#E6F4EA" stroke="#2F855A" stroke-width="2"/>
+<g stroke="#2F855A" stroke-width="1.3" fill="#E6F4EA"><rect x="1324" y="99" width="16" height="12"/><rect x="1320" y="101.5" width="8" height="3" fill="#E6F4EA"/><rect x="1320" y="106.5" width="8" height="3" fill="#E6F4EA"/></g>
+<text x="1230" y="114" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«component»</text>
+<text x="1230" y="143" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">App Entregador</text>
+<text x="1230" y="164" text-anchor="middle" font-size="12" fill="#4A5568">Aceita e realiza as entregas</text>
+<rect x="630" y="250" width="300" height="84" fill="#FFF4D6" stroke="#B7791F" stroke-width="2"/>
+<g stroke="#B7791F" stroke-width="1.3" fill="#FFF4D6"><rect x="904" y="259" width="16" height="12"/><rect x="900" y="261.5" width="8" height="3" fill="#FFF4D6"/><rect x="900" y="266.5" width="8" height="3" fill="#FFF4D6"/></g>
+<text x="780" y="274" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«infrastructure»</text>
+<text x="780" y="300" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">Load Balancer</text>
+<text x="780" y="318" text-anchor="middle" font-size="12" fill="#4A5568">Distribui o tráfego entre instâncias</text>
+<rect x="630" y="400" width="300" height="84" fill="#E8F1FB" stroke="#2B6CB0" stroke-width="2"/>
+<g stroke="#2B6CB0" stroke-width="1.3" fill="#E8F1FB"><rect x="904" y="409" width="16" height="12"/><rect x="900" y="411.5" width="8" height="3" fill="#E8F1FB"/><rect x="900" y="416.5" width="8" height="3" fill="#E8F1FB"/></g>
+<text x="780" y="424" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«component»</text>
+<text x="780" y="450" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">API Gateway</text>
+<text x="780" y="468" text-anchor="middle" font-size="12" fill="#4A5568">Autentica, roteia e limita requisições</text>
+<rect x="55" y="570" width="210" height="84" fill="#E8F1FB" stroke="#2B6CB0" stroke-width="2"/>
+<g stroke="#2B6CB0" stroke-width="1.3" fill="#E8F1FB"><rect x="239" y="579" width="16" height="12"/><rect x="235" y="581.5" width="8" height="3" fill="#E8F1FB"/><rect x="235" y="586.5" width="8" height="3" fill="#E8F1FB"/></g>
+<text x="160" y="594" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«component»</text>
+<text x="160" y="620" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">Serviço de Catálogo</text>
+<text x="160" y="638" text-anchor="middle" font-size="12" fill="#4A5568">Restaurantes e cardápios</text>
+<rect x="365" y="570" width="210" height="84" fill="#E8F1FB" stroke="#2B6CB0" stroke-width="2"/>
+<g stroke="#2B6CB0" stroke-width="1.3" fill="#E8F1FB"><rect x="549" y="579" width="16" height="12"/><rect x="545" y="581.5" width="8" height="3" fill="#E8F1FB"/><rect x="545" y="586.5" width="8" height="3" fill="#E8F1FB"/></g>
+<text x="470" y="594" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«component»</text>
+<text x="470" y="620" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">Serviço de Pagamentos</text>
+<text x="470" y="638" text-anchor="middle" font-size="12" fill="#4A5568">Autoriza e registra pagamentos</text>
+<rect x="675" y="570" width="210" height="84" fill="#E8F1FB" stroke="#2B6CB0" stroke-width="2"/>
+<g stroke="#2B6CB0" stroke-width="1.3" fill="#E8F1FB"><rect x="859" y="579" width="16" height="12"/><rect x="855" y="581.5" width="8" height="3" fill="#E8F1FB"/><rect x="855" y="586.5" width="8" height="3" fill="#E8F1FB"/></g>
+<text x="780" y="594" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«component»</text>
+<text x="780" y="620" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">Serviço de Pedidos</text>
+<text x="780" y="638" text-anchor="middle" font-size="12" fill="#4A5568">Cria e acompanha o pedido</text>
+<rect x="985" y="570" width="210" height="84" fill="#E8F1FB" stroke="#2B6CB0" stroke-width="2"/>
+<g stroke="#2B6CB0" stroke-width="1.3" fill="#E8F1FB"><rect x="1169" y="579" width="16" height="12"/><rect x="1165" y="581.5" width="8" height="3" fill="#E8F1FB"/><rect x="1165" y="586.5" width="8" height="3" fill="#E8F1FB"/></g>
+<text x="1090" y="594" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«component»</text>
+<text x="1090" y="620" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">Serviço de Entregas</text>
+<text x="1090" y="638" text-anchor="middle" font-size="12" fill="#4A5568">Aloca entregador e rastreia</text>
+<rect x="1295" y="570" width="210" height="84" fill="#E8F1FB" stroke="#2B6CB0" stroke-width="2"/>
+<g stroke="#2B6CB0" stroke-width="1.3" fill="#E8F1FB"><rect x="1479" y="579" width="16" height="12"/><rect x="1475" y="581.5" width="8" height="3" fill="#E8F1FB"/><rect x="1475" y="586.5" width="8" height="3" fill="#E8F1FB"/></g>
+<text x="1400" y="594" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«component»</text>
+<text x="1400" y="620" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">Serviço de Notificações</text>
+<text x="1400" y="638" text-anchor="middle" font-size="12" fill="#4A5568">Envia push/SMS aos usuários</text>
+<rect x="25" y="760" width="170" height="84" fill="#FFF4D6" stroke="#B7791F" stroke-width="2"/>
+<g stroke="#B7791F" stroke-width="1.3" fill="#FFF4D6"><rect x="169" y="769" width="16" height="12"/><rect x="165" y="771.5" width="8" height="3" fill="#FFF4D6"/><rect x="165" y="776.5" width="8" height="3" fill="#FFF4D6"/></g>
+<text x="110" y="784" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«cache»</text>
+<text x="110" y="810" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">Cache (Redis)</text>
+<text x="110" y="828" text-anchor="middle" font-size="12" fill="#4A5568">Consultas rápidas</text>
+<rect x="960" y="760" width="480" height="84" fill="#FFF4D6" stroke="#B7791F" stroke-width="2"/>
+<g stroke="#B7791F" stroke-width="1.3" fill="#FFF4D6"><rect x="1414" y="769" width="16" height="12"/><rect x="1410" y="771.5" width="8" height="3" fill="#FFF4D6"/><rect x="1410" y="776.5" width="8" height="3" fill="#FFF4D6"/></g>
+<text x="1200" y="784" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«message broker»</text>
+<text x="1200" y="810" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">Message Broker</text>
+<text x="1200" y="828" text-anchor="middle" font-size="12" fill="#4A5568">Barramento de eventos (publica/assina)</text>
+<rect x="360" y="940" width="220" height="84" fill="#F3F4F6" stroke="#6B7280" stroke-width="2" stroke-dasharray="7 4"/>
+<g stroke="#6B7280" stroke-width="1.3" fill="#F3F4F6"><rect x="554" y="949" width="16" height="12"/><rect x="550" y="951.5" width="8" height="3" fill="#F3F4F6"/><rect x="550" y="956.5" width="8" height="3" fill="#F3F4F6"/></g>
+<text x="470" y="964" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«external system»</text>
+<text x="470" y="990" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">Gateway de Pagamento</text>
+<text x="470" y="1008" text-anchor="middle" font-size="12" fill="#4A5568">Operadora de cartão/PIX</text>
+<rect x="1290" y="940" width="220" height="84" fill="#F3F4F6" stroke="#6B7280" stroke-width="2" stroke-dasharray="7 4"/>
+<g stroke="#6B7280" stroke-width="1.3" fill="#F3F4F6"><rect x="1484" y="949" width="16" height="12"/><rect x="1480" y="951.5" width="8" height="3" fill="#F3F4F6"/><rect x="1480" y="956.5" width="8" height="3" fill="#F3F4F6"/></g>
+<text x="1400" y="964" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«external system»</text>
+<text x="1400" y="990" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">Provedor de Push/SMS</text>
+<text x="1400" y="1008" text-anchor="middle" font-size="12" fill="#4A5568">FCM, APNs, operadora SMS</text>
+<rect x="44" y="923" width="34" height="14" fill="#E8F1FB" stroke="#2B6CB0" stroke-width="2"/>
+<g stroke="#2B6CB0" stroke-width="1" fill="#E8F1FB"><rect x="60" y="925" width="16" height="12"/><rect x="56" y="927.5" width="8" height="3" fill="#E8F1FB"/><rect x="56" y="932.5" width="8" height="3" fill="#E8F1FB"/></g>
+<rect x="44" y="943" width="34" height="14" fill="#E6F4EA" stroke="#2F855A" stroke-width="2"/>
+<g stroke="#2F855A" stroke-width="1" fill="#E6F4EA"><rect x="60" y="945" width="16" height="12"/><rect x="56" y="947.5" width="8" height="3" fill="#E6F4EA"/><rect x="56" y="952.5" width="8" height="3" fill="#E6F4EA"/></g>
+<rect x="44" y="963" width="34" height="14" fill="#FFF4D6" stroke="#B7791F" stroke-width="2"/>
+<g stroke="#B7791F" stroke-width="1" fill="#FFF4D6"><rect x="60" y="965" width="16" height="12"/><rect x="56" y="967.5" width="8" height="3" fill="#FFF4D6"/><rect x="56" y="972.5" width="8" height="3" fill="#FFF4D6"/></g>
+<rect x="44" y="1003" width="34" height="14" fill="#F3F4F6" stroke="#6B7280" stroke-width="2" stroke-dasharray="7 4"/>
+<g stroke="#6B7280" stroke-width="1" fill="#F3F4F6"><rect x="60" y="1005" width="16" height="12"/><rect x="56" y="1007.5" width="8" height="3" fill="#F3F4F6"/><rect x="56" y="1012.5" width="8" height="3" fill="#F3F4F6"/></g>
+<path d="M245,771 a85,11 0 0 1 170,0 v62 a85,11 0 0 1 -170,0 z" fill="#EDE7F6" stroke="#6B46C1" stroke-width="2"/>
+<path d="M245,771 a85,11 0 0 0 170,0" fill="none" stroke="#6B46C1" stroke-width="2"/>
+<text x="330" y="796" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«database»</text>
+<text x="330" y="814" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">BD de Catálogo</text>
+<text x="330" y="832" text-anchor="middle" font-size="12" fill="#4A5568">Cardápios e preços</text>
+<path d="M670,771 a110,11 0 0 1 220,0 v62 a110,11 0 0 1 -220,0 z" fill="#EDE7F6" stroke="#C53030" stroke-width="3.2"/>
+<path d="M670,771 a110,11 0 0 0 220,0" fill="none" stroke="#C53030" stroke-width="3.2"/>
+<text x="780" y="796" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«database»</text>
+<text x="780" y="814" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">BD de Pedidos</text>
+<text x="780" y="832" text-anchor="middle" font-size="12" fill="#4A5568">Primário (escrita)</text>
+<g><rect x="836" y="749" width="50" height="20" rx="10" fill="#C53030"/><text x="861" y="763.5" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">SPOF</text></g>
+<path d="M670,951 a110,11 0 0 1 220,0 v62 a110,11 0 0 1 -220,0 z" fill="#EDE7F6" stroke="#2F855A" stroke-width="3.2"/>
+<path d="M670,951 a110,11 0 0 0 220,0" fill="none" stroke="#2F855A" stroke-width="3.2"/>
+<text x="780" y="976" text-anchor="middle" font-size="11" font-style="italic" fill="#4A5568">«database»</text>
+<text x="780" y="994" text-anchor="middle" font-size="15" font-weight="700" fill="#1A202C">BD de Pedidos</text>
+<text x="780" y="1012" text-anchor="middle" font-size="12" fill="#4A5568">Réplica (leitura/failover)</text>
+<g><rect x="816" y="929" width="70" height="20" rx="10" fill="#2F855A"/><text x="851" y="943.5" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">RÉPLICA</text></g>
+<path d="M44,986 a17,4 0 0 1 34,0 v8 a17,4 0 0 1 -34,0 z" fill="#EDE7F6" stroke="#6B46C1" stroke-width="2"/>
+<path d="M495,745 H636 L650,759 V857 H495 Z" fill="#FFF5F5" stroke="#C53030" stroke-width="1.6"/>
+<path d="M636,745 V759 H650" fill="none" stroke="#C53030" stroke-width="1.6"/>
+<text x="505" y="767" font-size="12.5" font-weight="700" fill="#C53030">⚠ SPOF</text>
+<text x="505" y="784" font-size="12.5" font-weight="400" fill="#2D3748">Com um único BD de</text>
+<text x="505" y="801" font-size="12.5" font-weight="400" fill="#2D3748">Pedidos, se ele cair</text>
+<text x="505" y="818" font-size="12.5" font-weight="400" fill="#2D3748">nenhum pedido é</text>
+<text x="505" y="835" font-size="12.5" font-weight="400" fill="#2D3748">gravado.</text>
+<path d="M930,930 H1216 L1230,944 V1034 H930 Z" fill="#F0FFF4" stroke="#2F855A" stroke-width="1.6"/>
+<path d="M1216,930 V944 H1230" fill="none" stroke="#2F855A" stroke-width="1.6"/>
+<text x="940" y="952" font-size="12.5" font-weight="700" fill="#2F855A">✔ Solução visual para o SPOF</text>
+<text x="940" y="969" font-size="12.5" font-weight="400" fill="#2D3748">Réplica do BD de Pedidos com</text>
+<text x="940" y="986" font-size="12.5" font-weight="400" fill="#2D3748">failover automático: se o primário</text>
+<text x="940" y="1003" font-size="12.5" font-weight="400" fill="#2D3748">cair, a réplica assume a escrita.</text>
+<polyline points="780,250 780,240" fill="none" stroke="#2D3748" stroke-width="1.6"/>
+<polyline points="780,400 780,385" fill="none" stroke="#2D3748" stroke-width="1.6"/>
+<polyline points="160,570 160,554" fill="none" stroke="#2D3748" stroke-width="1.6"/>
+<polyline points="780,570 780,554" fill="none" stroke="#2D3748" stroke-width="1.6"/>
+<polyline points="1090,570 1090,554" fill="none" stroke="#2D3748" stroke-width="1.6"/>
+<polyline points="575,612 592,603" fill="none" stroke="#2D3748" stroke-width="1.6"/>
+<polyline points="1200,760 1200,731" fill="none" stroke="#2D3748" stroke-width="1.6"/>
+<polyline points="330,180 330,231 771,231" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="780,180 780,222" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="1230,180 1230,231 789,231" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="780,334 780,367" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="660,484 660,515 160,515 160,536" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="780,484 780,536" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="900,484 900,515 1090,515 1090,536" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="760,654 760,760" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="675,612 601,612" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="470,654 470,940" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="860,654 860,722 1191,722" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="1130,654 1130,690 1200,690 1200,713" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="1340,654 1340,722 1209,722" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="1470,654 1470,940" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="110,654 110,760" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="250,654 250,760" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="780,844 780,940" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<polyline points="650,802 670,802" fill="none" stroke="#C53030" stroke-width="1.2" stroke-dasharray="7 5"/>
+<polyline points="930,982 890,982" fill="none" stroke="#2F855A" stroke-width="1.2" stroke-dasharray="7 5"/>
+<polyline points="44,1050 78,1050" fill="none" stroke="#2D3748" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<circle cx="780" cy="231" r="9" fill="#FFFFFF" stroke="#2D3748" stroke-width="1.8"/>
+<circle cx="780" cy="376" r="9" fill="#FFFFFF" stroke="#2D3748" stroke-width="1.8"/>
+<circle cx="160" cy="545" r="9" fill="#FFFFFF" stroke="#2D3748" stroke-width="1.8"/>
+<circle cx="780" cy="545" r="9" fill="#FFFFFF" stroke="#2D3748" stroke-width="1.8"/>
+<circle cx="1090" cy="545" r="9" fill="#FFFFFF" stroke="#2D3748" stroke-width="1.8"/>
+<circle cx="592" cy="612" r="9" fill="#FFFFFF" stroke="#2D3748" stroke-width="1.8"/>
+<circle cx="1200" cy="722" r="9" fill="#FFFFFF" stroke="#2D3748" stroke-width="1.8"/>
+<circle cx="61" cy="1030" r="6" fill="#FFFFFF" stroke="#2D3748" stroke-width="1.8"/>
+<circle cx="330" cy="206" r="11" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="330" y="210.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">1</text>
+<circle cx="780" cy="201" r="11" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="780" y="205.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">1</text>
+<circle cx="1230" cy="206" r="11" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="1230" y="210.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">1</text>
+<circle cx="780" cy="351" r="11" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="780" y="355.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">2</text>
+<circle cx="780" cy="510" r="11" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="780" y="514.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">3</text>
+<circle cx="760" cy="700" r="11" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="760" y="704.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">4</text>
+<circle cx="638" cy="612" r="11" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="638" y="616.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">5</text>
+<circle cx="470" cy="700" r="11" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="470" y="704.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">6</text>
+<circle cx="860" cy="690" r="11" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="860" y="694.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">7</text>
+<circle cx="1130" cy="674" r="11" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="1130" y="678.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">8</text>
+<circle cx="1340" cy="690" r="11" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="1340" y="694.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">8</text>
+<circle cx="1470" cy="780" r="11" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="1470" y="784.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">9</text>
+<circle cx="61" cy="1070" r="8" fill="#1A365D" stroke="#fff" stroke-width="2"/><text x="61" y="1074" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">1</text>
+<text x="800" y="227" text-anchor="start" font-size="11" font-weight="700" fill="#4A5568"  class="t halo">HTTPS</text>
+<text x="800" y="380" text-anchor="start" font-size="11" font-weight="700" fill="#4A5568"  class="t halo">HTTP</text>
+<text x="142" y="541" text-anchor="end" font-size="11" font-weight="700" fill="#4A5568"  class="t halo">REST</text>
+<text x="762" y="541" text-anchor="end" font-size="11" font-weight="700" fill="#4A5568"  class="t halo">REST</text>
+<text x="1072" y="541" text-anchor="end" font-size="11" font-weight="700" fill="#4A5568"  class="t halo">REST</text>
+<text x="1212" y="752" text-anchor="start" font-size="11" font-weight="700" fill="#4A5568"  class="t halo">AMQP</text>
+<text x="420" y="224" text-anchor="middle" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">HTTPS · REST</text>
+<text x="1140" y="224" text-anchor="middle" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">HTTPS · REST</text>
+<text x="410" y="508" text-anchor="middle" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">REST  /catalogo</text>
+<text x="796" y="503" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">REST  /pedidos</text>
+<text x="1000" y="508" text-anchor="middle" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">REST  /entregas</text>
+<text x="777" y="715" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">SQL (JDBC)</text>
+<text x="638" y="596" text-anchor="middle" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">REST</text>
+<text x="486" y="884" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">HTTPS (API do</text>
+<text x="486" y="899" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">adquirente)</text>
+<text x="1020" y="714" text-anchor="middle" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">publica evento</text>
+<text x="1147" y="678" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">assina evento</text>
+<text x="1275" y="714" text-anchor="middle" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">assina evento</text>
+<text x="1486" y="840" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">HTTPS</text>
+<text x="126" y="712" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">cache-aside</text>
+<text x="266" y="712" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">SQL</text>
+<text x="796" y="890" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">«replica» replicação assíncrona</text>
+<text x="800" y="36" text-anchor="middle" font-size="24" font-weight="700" fill="#1A202C"  class="t halo">iFood — Diagrama de Componentes UML</text>
+<text x="800" y="60" text-anchor="middle" font-size="13" font-weight="400" fill="#4A5568"  class="t halo">Escopo: fluxo de pedido de comida (cliente → restaurante → entrega)  ·  Números 1–9 = passos de “Fazer Pedido” (ver README)</text>
+<text x="44" y="907" text-anchor="start" font-size="13" font-weight="700" fill="#1A202C"  class="t halo">Legenda</text>
+<text x="90" y="934" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">Componente da aplicação</text>
+<text x="90" y="954" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">Aplicativo cliente (mobile/web)</text>
+<text x="90" y="974" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">Infraestrutura / escala</text>
+<text x="90" y="994" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">Banco de dados</text>
+<text x="90" y="1014" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">Sistema externo</text>
+<text x="90" y="1034" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">Interface fornecida (pirulito)</text>
+<text x="90" y="1054" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">Dependência: A → B = A usa B</text>
+<text x="90" y="1074" text-anchor="start" font-size="12" font-weight="400" fill="#1A202C"  class="t halo">Ordem do fluxo “Fazer Pedido”</text>
+</svg>
