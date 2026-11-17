@@ -1,7 +1,6 @@
 # Arquitetura de Software — Modelagem Visual de Componentes (iFood)
 
 **Disciplina:** Arquitetura de Software · **Entregável:** Semana 01 — Modelagem Visual de Componentes
-**Integrantes do grupo:** _(preencher com nomes e matrículas)_
 
 > Entrega 100% de modelagem visual: este repositório não contém código, apenas o diagrama de componentes UML e a documentação que o explica.
 
